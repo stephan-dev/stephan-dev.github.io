@@ -3,8 +3,8 @@ A Mofo demo website for the hacking project
 
 ## features
 * some CSS
-* very oldskool popups
-* rick astley
+* oldskool popups
+* modern rickrolling
 
 ## url
  production : https://stephan-dev.github.io/

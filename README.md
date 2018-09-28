@@ -2,8 +2,8 @@
 A Mofo demo website for the hacking project
 
 ## features
-* some CSS
-* oldskool popups
+* some inline CSS
+* oldskool popups (please allow in site permissions)
 * possible rickrolling
 
 ## url

@@ -8,3 +8,6 @@ A Mofo demo website for the hacking project
 
 ## url
  production : https://stephan-dev.github.io/
+
+## sources
+ site to clone (html/css) http://bettermotherfuckingwebsite.com/
